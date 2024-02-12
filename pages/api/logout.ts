@@ -1,4 +1,4 @@
-// pages/api/logout.js
+// pages/api/logout.ts
 import { sql } from "@vercel/postgres";
 import { NextApiRequest, NextApiResponse } from "next";
 
